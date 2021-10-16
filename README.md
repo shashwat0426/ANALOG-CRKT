@@ -6,5 +6,5 @@ CLIPPERS
 CLAMPERS                                      
 OP-AMP                                                      
 FILTERS                                                  
-BJT AMPLIFIER                                                                                          
-NOTE :--  ALL THE CIRCUIT ARE MADE IN TINA-TI TOOL (a simulation software by Texas Instruments)
+BJT- AMPLIFIER                                                                                          
+NOTE :--  ALL THE CIRCUITS ARE MADE IN TINA-TI TOOL (a simulation software by Texas Instruments)
