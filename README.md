@@ -2,7 +2,7 @@
 
 THIS IS A COLLECTION OF BASIC ANALOG CRKT:-    
 
-DC TRANSIENT ANALYSIS (ctrl+alt+t):- 
+DC TRANSIENT ANALYSIS  
 put transient time in nano sec. otherwise it will be difficult to analyse.
 
 RECTIFIERS                     
